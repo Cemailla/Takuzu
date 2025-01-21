@@ -1,0 +1,25 @@
+[GENERATED OBJECT FILE]
+b__main.o
+[PROJECT FILES]
+C:\Users\33768\Desktop\IUT INFO\Semestre 1\S102\takuzu.gpr
+20230104165816 2e9b8b0bf74d524c94ab29e0f343427c
+[BOUND OBJECT FILES]
+C:\Users\33768\Desktop\IUT INFO\Semestre 1\S102\obj\chiffre.o
+C:\Users\33768\Desktop\IUT INFO\Semestre 1\S102\obj\coordonnee.o
+C:\Users\33768\Desktop\IUT INFO\Semestre 1\S102\obj\rangee.o
+C:\Users\33768\Desktop\IUT INFO\Semestre 1\S102\obj\grille.o
+C:\Users\33768\Desktop\IUT INFO\Semestre 1\S102\obj\affichage.o
+C:\Users\33768\Desktop\IUT INFO\Semestre 1\S102\obj\resolution_takuzu.o
+C:\Users\33768\Desktop\IUT INFO\Semestre 1\S102\obj\main.o
+[GENERATED SOURCE FILES]
+b__main.ads
+b__main.adb
+b__main.ali
+[RESULTING OPTIONS]
+-LC:\Users\33768\Desktop\IUT INFO\Semestre 1\S102\obj\
+-LC:\Users\33768\Desktop\IUT INFO\Semestre 1\S102\obj\
+-LC:/gnat/2020/lib/gcc/x86_64-pc-mingw32/9.3.1/adalib/
+-static
+-static-libgcc
+C:/gnat/2020/lib/gcc/x86_64-pc-mingw32/9.3.1/adalib/libgnat.a
+-Wl,--stack=0x2000000
